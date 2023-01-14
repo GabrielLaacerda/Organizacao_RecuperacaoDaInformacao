@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1645132034 source:c:\users\gabri\documents\trabalho_ori\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<io.h>
+	<ctype.h>
+
+1648747127 source:c:\users\gabri\desktop\ori_gabrielvinicius\algoritimo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<io.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+
+1648761691 source:c:\users\gabri\desktop\ori2_gabrielvinicius\algoritimo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<io.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+
