@@ -1,1 +1,3 @@
-# Organiza-o-e-recuperacao-da-informa-o
+# Organização e Recuperação da Informação
+
+Algoritimo para tratar e recuperar informações em documentos.
